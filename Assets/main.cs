@@ -25,7 +25,7 @@ public class main : MonoBehaviour {
         //kantoor
         for (var i = 0; i < 6; i++)
         {
-            create(prefabslot[0], i, 1, 0.125f, 0, 0, 0
+            create(prefabslot[0], i, 1, 0.125f, 0, 0, 0);
         }
 
         for (var i = 0; i < 10; i++)
